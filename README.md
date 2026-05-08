@@ -31,9 +31,8 @@ I'm a backend-focused Software Engineer with **12+ years of experience** (since 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-8A2BE2?style=flat&logo=python&logoColor=white)
 
-**Architecture & Practices:** DDD · SOLID · Microservices · Event-driven · REST · CI/CD
+**Architecture & Practices:** Microservices · Event-driven · REST API · CI/CD · OOP · DDD · SOLID 
 
 ---
 
