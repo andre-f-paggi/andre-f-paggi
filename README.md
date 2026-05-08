@@ -3,11 +3,11 @@
   https://github.com/andre-f-paggi/andre-f-paggi/blob/main/README.md
 -->
 
-<h1 align="center">Hi, I'm André Paggi 👋</h1>
+<h1 align="center">Hi, I'm André Franciscato Paggi 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · Backend Specialist · Brazil 🇧🇷</b><br/>
-  <sub>Santo André, São Paulo</sub>
+  <b>Software Engineer · Backend Specialist</b><br/>
+  <sub>Santo André, São Paulo - Brazil</sub>
 </p>
 
 ---
@@ -15,8 +15,6 @@
 ## About Me
 
 I'm a backend-focused Software Engineer with **12+ years of experience** (since 2014) building scalable distributed systems, APIs, and cloud-native services.
-
-Currently working at **[PureCars](https://www.purecars.com)**, developing data-intensive backend platforms for the automotive industry.
 
 ---
 
@@ -32,7 +30,6 @@ Currently working at **[PureCars](https://www.purecars.com)**, developing data-i
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-0078D4?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### Frontend
@@ -43,10 +40,6 @@ Currently working at **[PureCars](https://www.purecars.com)**, developing data-i
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-### Testing
-![xUnit](https://img.shields.io/badge/xUnit-.NET-512BD4?style=flat)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-
 ### Architecture & Practices
 - Domain-Driven Design (DDD)
 - SOLID principles
@@ -54,15 +47,6 @@ Currently working at **[PureCars](https://www.purecars.com)**, developing data-i
 - Event-driven architecture
 - REST APIs
 - CI/CD pipelines
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andre-f-paggi&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-f-paggi&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 ---
 
