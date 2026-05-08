@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · Backend Specialist</b><br/>
-  <sub>Santo André, São Paulo - Brazil</sub>
+  <sub>São Paulo - Brazil (working from home 🏡)</sub>
 </p>
 
 ---
@@ -10,6 +10,8 @@
 ## About Me
 
 I'm a backend-focused Software Engineer with **12+ years of experience** (since 2014) building scalable distributed systems, APIs, and cloud-native services.
+
+Worked across different industries and countries 🌍
 
 ---
 
