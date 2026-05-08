@@ -1,4 +1,14 @@
-<h1 align="center">Hi, I'm André Franciscato Paggi 👋</h1>
+<h1 align="center">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+  </picture>
+  Hi, I'm André Franciscato Paggi
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="32" height="32">
+  </picture>
+</h1>
 
 <p align="center">
   <b>Software Engineer · Backend Specialist</b><br/>
@@ -11,7 +21,7 @@
 
 I'm a backend-focused Software Engineer with **12+ years of experience** (since 2014) building scalable distributed systems, APIs, and cloud-native services.
 
-Worked across different industries and countries 🌍
+Worked with software across different industries and countries 🌍
 
 ---
 
@@ -34,7 +44,9 @@ Worked across different industries and countries 🌍
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
 
-**Architecture & Practices:** Microservices · Event-driven · REST API · CI/CD · OOP · DDD · SOLID 
+**Architecture & Practices:**
+
+Microservices · Event-driven · REST API · CI/CD · OOP · DDD · SOLID 
 
 ---
 
